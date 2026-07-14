@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-yps42d.rajabandot77jpg.lat/sitemap.xml
